@@ -1,0 +1,85 @@
+<htm>
+	<main></main>
+</htm>
+
+<style>
+	@import url('https://max.pub/css/base.css');
+	@import url('https://max.pub/css/publicSans.css');
+
+	.title {
+		font-size: 1.7rem;
+		color: var(--text-mark)
+	}
+
+	.publisher {
+		font-size: 1.3rem;
+	}
+
+	div {
+		padding: 1rem;
+
+	}
+
+	div:nth-child(even) {
+		background: #333;
+	}
+
+	h3 {
+		color: var(--text-back)
+	}
+
+	.author {
+		background: #444;
+		padding: .2rem .5rem;
+		display: inline-block;
+		margin: .2rem;
+		border-radius: 5px;
+	}
+</style>
+
+<script>
+	class {
+		async $onFrameChange() {
+			let search = this.$a.search
+			console.log('frame', search)
+			if (search) {
+				let result = await this.searchAPI(search)
+				console.log('res', result)
+				this.show(result);
+			}
+		}
+		show(list) {
+			// this.$view = list.map(paper=>`<h1>${paper.title}</h1><h2>${paper.author.map()}</h2>`).join('\n')
+			let html = '';
+			for (let paper of list) {
+				html += `<div>`;
+				html += `<a class='title' href='https://doi.org/${paper.DOI}' target='_blank'>${paper.title}</a>`;
+				html += `<a class='date'>${paper.issued['date-parts'][0].join('-')}</a>`
+				html += `<a class='publisher'>${paper.publisher}</a>`;
+				// html += `<h2>`
+				for (let author of paper.author?.filter(x => x.given)?.filter(x => !x.given.startsWith('&')) ?? []) {
+					html += `<a class='author'>${author.given} ${author.family}</a>\n`
+				}
+				// html += `</h2>`
+				html += `<div>${paper.type}</div>`
+				html += `</div>`;
+				// html += paper.abstract;
+			}
+			this.$view = `<main>${html}</main>`;
+		}
+		async searchAPI(query) {
+			console.log('crossref', query);//& format=unixsd
+			let result = await fetch('./test2.json').then(x => x.json()); //return result;
+			// let result = await fetch('https://api.crossref.org/works?query=' + query).then(x => x.json());
+			return result.message.items;//.map(this.crossrefConverter);
+		}
+		async selectPaper(node, event) {
+			let selection = event.composedPath()[0].closest('reference');
+			console.log('select paper', selection);
+			selection.setAttribute('short-DOI', await this.shortDOI(selection.getAttribute('DOI')));
+			console.log('select paper', node);
+			this.dispatchEvent(new CustomEvent("select", { bubbles: true, detail: selection }));
+			this.$('dialog').close();
+		}
+	}
+</script>

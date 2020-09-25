@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crossref_result xmlns="http://www.crossref.org/qrschema/3.0" version="3.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+	<query_result>
+		<head>
+			<doi_batch_id>none</doi_batch_id>
+		</head>
+		<body>
+			<query status="resolved">
+				<doi type="journal_article">10.2131/jts.44.373</doi>
+				<crm-item name="publisher-name" type="string">Japanese Society of Toxicology</crm-item>
+				<crm-item name="prefix-name" type="string">Japanese Society of Toxicology</crm-item>
+				<crm-item name="member-id" type="number">898</crm-item>
+				<crm-item name="citation-id" type="number">107350687</crm-item>
+				<crm-item name="journal-id" type="number">34078</crm-item>
+				<crm-item name="deposit-timestamp" type="number">20190604070357</crm-item>
+				<crm-item name="owner-prefix" type="string">10.2131</crm-item>
+				<crm-item name="last-update" type="date">2019-06-08T03:23:14Z</crm-item>
+				<crm-item name="created" type="date">2019-06-03T22:04:08Z</crm-item>
+				<crm-item name="citedby-count" type="number">7</crm-item>
+				<doi_record>
+					<crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+						<journal>
+							<journal_metadata language="en">
+								<full_title>The Journal of Toxicological Sciences</full_title>
+								<abbrev_title>J. Toxicol. Sci.</abbrev_title>
+								<issn media_type="print">0388-1350</issn>
+								<issn media_type="electronic">1880-3989</issn>
+							</journal_metadata>
+							<journal_issue>
+								<publication_date media_type="print">
+									<year>2019</year>
+								</publication_date>
+								<journal_volume>
+									<volume>44</volume>
+								</journal_volume>
+								<issue>6</issue>
+							</journal_issue>
+							<journal_article publication_type="full_text">
+								<titles>
+									<title>Cardio-renal safety of non-steroidal anti-inflammatory drugs</title>
+								</titles>
+								<contributors>
+									<person_name contributor_role="author" sequence="first">
+										<given_name>Zaher A.</given_name>
+										<surname>Radi</surname>
+										<affiliation>Drug Safety Research &amp; Development, Pfizer Research, Development &amp; Medical, Cambridge, USA</affiliation>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>K. Nasir</given_name>
+										<surname>Khan</surname>
+										<affiliation>Drug Safety Research &amp; Development, Pfizer Research, Development &amp; Medical, Cambridge, USA</affiliation>
+									</person_name>
+								</contributors>
+								<publication_date media_type="print">
+									<year>2019</year>
+								</publication_date>
+								<pages>
+									<first_page>373</first_page>
+									<last_page>391</last_page>
+								</pages>
+								<doi_data>
+									<doi>10.2131/jts.44.373</doi>
+									<timestamp>20190604070357</timestamp>
+									<resource>https://www.jstage.jst.go.jp/article/jts/44/6/44_373/_article</resource>
+									<collection property="crawler-based">
+										<item crawler="iParadigms">
+											<resource>https://www.jstage.jst.go.jp/article/jts/44/6/44_373/_pdf</resource>
+										</item>
+									</collection>
+								</doi_data>
+							</journal_article>
+						</journal>
+					</crossref>
+				</doi_record>
+			</query>
+		</body>
+	</query_result>
+</crossref_result>

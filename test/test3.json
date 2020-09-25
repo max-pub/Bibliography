@@ -1,0 +1,2343 @@
+{
+	"status": "ok",
+	"message-type": "work-list",
+	"message-version": "1.0.0",
+	"message": {
+		"facets": {},
+		"total-results": 730,
+		"items": [
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							6,
+							9
+						]
+					],
+					"date-time": "2020-06-09T22:24:12Z",
+					"timestamp": 1591741452659
+				},
+				"reference-count": 1,
+				"publisher": "Qeios",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"DOI": "10.32388\/fthzkq",
+				"type": "reference-entry",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					],
+					"date-time": "2020-02-07T15:51:31Z",
+					"timestamp": 1581090691000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol Succinate"
+				],
+				"prefix": "10.32388",
+				"author": [
+					{
+						"name": "National Cancer Institute",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "17262",
+				"published-online": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					]
+				},
+				"reference": [
+					{
+						"key": "ref1",
+						"unstructured": "National Cancer Institute. Metoprolol Succinate. NCI Thesaurus. Code C29254."
+					}
+				],
+				"container-title": [
+					"Definitions"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					],
+					"date-time": "2020-02-07T15:51:31Z",
+					"timestamp": 1581090691000
+				},
+				"score": 15.421994,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					]
+				},
+				"references-count": 1,
+				"URL": "http:\/\/dx.doi.org\/10.32388\/fthzkq",
+				"relation": {
+					"cites": []
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							6,
+							9
+						]
+					],
+					"date-time": "2020-06-09T22:24:13Z",
+					"timestamp": 1591741453068
+				},
+				"reference-count": 1,
+				"publisher": "Qeios",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"DOI": "10.32388\/dmfpr4",
+				"type": "reference-entry",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					],
+					"date-time": "2020-02-07T15:51:53Z",
+					"timestamp": 1581090713000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol Tartrate"
+				],
+				"prefix": "10.32388",
+				"author": [
+					{
+						"name": "National Cancer Institute",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "17262",
+				"published-online": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					]
+				},
+				"reference": [
+					{
+						"key": "ref1",
+						"unstructured": "National Cancer Institute. Metoprolol Tartrate. NCI Thesaurus. Code C29255."
+					}
+				],
+				"container-title": [
+					"Definitions"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					],
+					"date-time": "2020-02-07T15:51:53Z",
+					"timestamp": 1581090713000
+				},
+				"score": 15.421994,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					]
+				},
+				"references-count": 1,
+				"URL": "http:\/\/dx.doi.org\/10.32388\/dmfpr4",
+				"relation": {
+					"cites": []
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							30
+						]
+					],
+					"date-time": "2020-07-30T10:17:31Z",
+					"timestamp": 1596104251922
+				},
+				"reference-count": 1,
+				"publisher": "Qeios",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"DOI": "10.32388\/y1aptn",
+				"type": "reference-entry",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					],
+					"date-time": "2020-02-07T20:13:42Z",
+					"timestamp": 1581106422000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol"
+				],
+				"prefix": "10.32388",
+				"author": [
+					{
+						"name": "National Cancer Institute",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "17262",
+				"published-online": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					]
+				},
+				"reference": [
+					{
+						"key": "ref1",
+						"unstructured": "National Cancer Institute. Metoprolol. NCI Thesaurus. Code C61845."
+					}
+				],
+				"container-title": [
+					"Definitions"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					],
+					"date-time": "2020-02-07T20:13:43Z",
+					"timestamp": 1581106423000
+				},
+				"score": 15.421994,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							7
+						]
+					]
+				},
+				"references-count": 1,
+				"URL": "http:\/\/dx.doi.org\/10.32388\/y1aptn",
+				"relation": {
+					"cites": []
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							30
+						]
+					],
+					"date-time": "2020-07-30T10:17:32Z",
+					"timestamp": 1596104252086
+				},
+				"reference-count": 1,
+				"publisher": "Qeios",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"DOI": "10.32388\/xrp9gk",
+				"type": "reference-entry",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							8
+						]
+					],
+					"date-time": "2020-02-08T20:20:31Z",
+					"timestamp": 1581193231000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol Fumarate"
+				],
+				"prefix": "10.32388",
+				"author": [
+					{
+						"name": "National Cancer Institute",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "17262",
+				"published-online": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							8
+						]
+					]
+				},
+				"reference": [
+					{
+						"key": "ref1",
+						"unstructured": "National Cancer Institute. Metoprolol Fumarate. NCI Thesaurus. Code C66133."
+					}
+				],
+				"container-title": [
+					"Definitions"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							8
+						]
+					],
+					"date-time": "2020-02-08T20:20:31Z",
+					"timestamp": 1581193231000
+				},
+				"score": 15.421994,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							2,
+							8
+						]
+					]
+				},
+				"references-count": 1,
+				"URL": "http:\/\/dx.doi.org\/10.32388\/xrp9gk",
+				"relation": {
+					"cites": []
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							4,
+							11
+						]
+					],
+					"date-time": "2020-04-11T19:33:13Z",
+					"timestamp": 1586633593051
+				},
+				"reference-count": 7,
+				"publisher": "Elsevier",
+				"isbn-type": [
+					{
+						"value": "9780444537164",
+						"type": "print"
+					}
+				],
+				"license": [
+					{
+						"URL": "https:\/\/www.elsevier.com\/tdm\/userlicense\/1.0\/",
+						"start": {
+							"date-parts": [
+								[
+									2016,
+									1,
+									1
+								]
+							],
+							"date-time": "2016-01-01T00:00:00Z",
+							"timestamp": 1451606400000
+						},
+						"delay-in-days": 0,
+						"content-version": "tdm"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2016
+						]
+					]
+				},
+				"DOI": "10.1016\/b978-0-444-53717-1.01075-1",
+				"type": "book-chapter",
+				"created": {
+					"date-parts": [
+						[
+							2015,
+							10,
+							23
+						]
+					],
+					"date-time": "2015-10-23T04:40:28Z",
+					"timestamp": 1445575228000
+				},
+				"page": "983",
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol"
+				],
+				"prefix": "10.1016",
+				"member": "78",
+				"container-title": [
+					"Meyler's Side Effects of Drugs"
+				],
+				"link": [
+					{
+						"URL": "https:\/\/api.elsevier.com\/content\/article\/PII:B9780444537171010751?httpAccept=text\/xml",
+						"content-type": "text\/xml",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					},
+					{
+						"URL": "https:\/\/api.elsevier.com\/content\/article\/PII:B9780444537171010751?httpAccept=text\/plain",
+						"content-type": "text\/plain",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2018,
+							9,
+							18
+						]
+					],
+					"date-time": "2018-09-18T13:20:49Z",
+					"timestamp": 1537276849000
+				},
+				"score": 14.6268425,
+				"issued": {
+					"date-parts": [
+						[
+							2016
+						]
+					]
+				},
+				"ISBN": [
+					"9780444537164"
+				],
+				"references-count": 7,
+				"URL": "http:\/\/dx.doi.org\/10.1016\/b978-0-444-53717-1.01075-1"
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							4,
+							13
+						]
+					],
+					"date-time": "2020-04-13T22:55:03Z",
+					"timestamp": 1586818503152
+				},
+				"reference-count": 0,
+				"publisher": "Valley International",
+				"issue": "6",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"short-container-title": [
+					"jmscr"
+				],
+				"published-print": {
+					"date-parts": [
+						[
+							2018,
+							6,
+							5
+						]
+					]
+				},
+				"DOI": "10.18535\/jmscr\/v6i6.09",
+				"type": "journal-article",
+				"created": {
+					"date-parts": [
+						[
+							2018,
+							6,
+							5
+						]
+					],
+					"date-time": "2018-06-05T08:34:50Z",
+					"timestamp": 1528187690000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol Induced Dupuytren\u2019s Contracture"
+				],
+				"prefix": "10.18535",
+				"volume": "6",
+				"author": [
+					{
+						"given": "Prabhat",
+						"family": "Agrawal",
+						"sequence": "first",
+						"affiliation": []
+					},
+					{
+						"name": "P.G. Dept of Medicine, S.N. Medical College, Agra",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "7803",
+				"published-online": {
+					"date-parts": [
+						[
+							2018,
+							6,
+							5
+						]
+					]
+				},
+				"container-title": [
+					"Journal of Medical Science And clinical Research"
+				],
+				"original-title": [
+					"Metoprolol Induced Dupuytren\u2019s Contracture"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2018,
+							6,
+							5
+						]
+					],
+					"date-time": "2018-06-05T08:34:56Z",
+					"timestamp": 1528187696000
+				},
+				"score": 13.633936,
+				"issued": {
+					"date-parts": [
+						[
+							2018,
+							6,
+							5
+						]
+					]
+				},
+				"references-count": 0,
+				"journal-issue": {
+					"published-online": {
+						"date-parts": [
+							[
+								2018,
+								6,
+								5
+							]
+						]
+					},
+					"published-print": {
+						"date-parts": [
+							[
+								2018,
+								6,
+								5
+							]
+						]
+					},
+					"issue": "6"
+				},
+				"URL": "http:\/\/dx.doi.org\/10.18535\/jmscr\/v6i6.09",
+				"ISSN": [
+					"2347-176X"
+				],
+				"issn-type": [
+					{
+						"value": "2347-176X",
+						"type": "electronic"
+					}
+				]
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							8,
+							1
+						]
+					],
+					"date-time": "2020-08-01T22:17:17Z",
+					"timestamp": 1596320237912
+				},
+				"reference-count": 0,
+				"publisher": "Medical Education",
+				"issue": "4",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"short-container-title": [
+					"J EBM"
+				],
+				"published-print": {
+					"date-parts": [
+						[
+							2017,
+							12,
+							29
+						]
+					]
+				},
+				"DOI": "10.24292\/01.mf.0417.4",
+				"type": "journal-article",
+				"created": {
+					"date-parts": [
+						[
+							2018,
+							3,
+							15
+						]
+					],
+					"date-time": "2018-03-15T15:54:41Z",
+					"timestamp": 1521129281000
+				},
+				"page": "324-328",
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol CR\/XL \u2013 classical medicine at its best. Indications and possibilities"
+				],
+				"prefix": "10.24292",
+				"volume": "10",
+				"author": [
+					{
+						"given": "Wioletta",
+						"family": "Dyrla",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "10391",
+				"published-online": {
+					"date-parts": [
+						[
+							2017,
+							12,
+							29
+						]
+					]
+				},
+				"container-title": [
+					"Medycyna Fakt\u00f3w"
+				],
+				"original-title": [
+					"Metoprolol CR\/XL \u2013 klasyka w najlepszym wydaniu. Wiele wskaza\u0144. Wiele mo\u017cliwo\u015bci"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2018,
+							3,
+							15
+						]
+					],
+					"date-time": "2018-03-15T15:54:44Z",
+					"timestamp": 1521129284000
+				},
+				"score": 13.633936,
+				"issued": {
+					"date-parts": [
+						[
+							2017,
+							12,
+							29
+						]
+					]
+				},
+				"references-count": 0,
+				"journal-issue": {
+					"published-online": {
+						"date-parts": [
+							[
+								2017,
+								12,
+								29
+							]
+						]
+					},
+					"published-print": {
+						"date-parts": [
+							[
+								2017,
+								12,
+								29
+							]
+						]
+					},
+					"issue": "4"
+				},
+				"URL": "http:\/\/dx.doi.org\/10.24292\/01.mf.0417.4",
+				"ISSN": [
+					"1899-8666"
+				],
+				"issn-type": [
+					{
+						"value": "1899-8666",
+						"type": "print"
+					}
+				]
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							3,
+							30
+						]
+					],
+					"date-time": "2020-03-30T06:50:51Z",
+					"timestamp": 1585551051172
+				},
+				"reference-count": 0,
+				"publisher": "Medical Education",
+				"issue": "1",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"short-container-title": [
+					"J EBM"
+				],
+				"published-print": {
+					"date-parts": [
+						[
+							2018,
+							3,
+							30
+						]
+					]
+				},
+				"DOI": "10.24292\/01.mf.0118.5",
+				"type": "journal-article",
+				"created": {
+					"date-parts": [
+						[
+							2018,
+							4,
+							26
+						]
+					],
+					"date-time": "2018-04-26T14:05:10Z",
+					"timestamp": 1524751510000
+				},
+				"page": "34-41",
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol CR\/XL in cardiovascular diseases \u2013 experience in use of sustained release drug"
+				],
+				"prefix": "10.24292",
+				"volume": "11",
+				"author": [
+					{
+						"given": "Wioletta",
+						"family": "Dyrla",
+						"sequence": "first",
+						"affiliation": []
+					},
+					{
+						"given": "Marek",
+						"family": "Kuch",
+						"sequence": "additional",
+						"affiliation": []
+					}
+				],
+				"member": "10391",
+				"published-online": {
+					"date-parts": [
+						[
+							2018,
+							3,
+							30
+						]
+					]
+				},
+				"container-title": [
+					"Medycyna Fakt\u00f3w"
+				],
+				"original-title": [
+					"Metoprolol CR\/XL w chorobach uk\u0142adu kr\u0105\u017cenia \u2013 do\u015bwiadczenie o przed\u0142u\u017conym dzia\u0142aniu"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2018,
+							4,
+							26
+						]
+					],
+					"date-time": "2018-04-26T14:05:15Z",
+					"timestamp": 1524751515000
+				},
+				"score": 13.633936,
+				"issued": {
+					"date-parts": [
+						[
+							2018,
+							3,
+							30
+						]
+					]
+				},
+				"references-count": 0,
+				"journal-issue": {
+					"published-online": {
+						"date-parts": [
+							[
+								2018,
+								3,
+								30
+							]
+						]
+					},
+					"published-print": {
+						"date-parts": [
+							[
+								2018,
+								3,
+								30
+							]
+						]
+					},
+					"issue": "1"
+				},
+				"URL": "http:\/\/dx.doi.org\/10.24292\/01.mf.0118.5",
+				"ISSN": [
+					"1899-8666"
+				],
+				"issn-type": [
+					{
+						"value": "1899-8666",
+						"type": "print"
+					}
+				]
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							3,
+							28
+						]
+					],
+					"date-time": "2020-03-28T15:06:14Z",
+					"timestamp": 1585407974927
+				},
+				"reference-count": 1,
+				"publisher": "Springer Science and Business Media LLC",
+				"issue": "1",
+				"license": [
+					{
+						"URL": "http:\/\/www.springer.com\/tdm",
+						"start": {
+							"date-parts": [
+								[
+									2017,
+									5,
+									1
+								]
+							],
+							"date-time": "2017-05-01T00:00:00Z",
+							"timestamp": 1493596800000
+						},
+						"delay-in-days": 0,
+						"content-version": "unspecified"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"short-container-title": [
+					"Reactions Weekly"
+				],
+				"published-print": {
+					"date-parts": [
+						[
+							2017,
+							5
+						]
+					]
+				},
+				"DOI": "10.1007\/s40278-017-29839-9",
+				"type": "journal-article",
+				"created": {
+					"date-parts": [
+						[
+							2017,
+							5,
+							12
+						]
+					],
+					"date-time": "2017-05-12T10:23:37Z",
+					"timestamp": 1494584617000
+				},
+				"page": "27-27",
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Amlodipine\/metoprolol overdose"
+				],
+				"prefix": "10.1007",
+				"volume": "1651",
+				"member": "297",
+				"published-online": {
+					"date-parts": [
+						[
+							2017,
+							5,
+							13
+						]
+					]
+				},
+				"reference": [
+					{
+						"issue": "2",
+						"key": "29839_CR1",
+						"doi-asserted-by": "crossref",
+						"first-page": "223",
+						"DOI": "10.1007\/s12012-016-9362-2",
+						"volume": "17",
+						"author": "KF Maskell",
+						"year": "2017",
+						"unstructured": "Maskell KF, et al. Survival After Cardiac Arrest: ECMO Rescue Therapy After Amlodipine and Metoprolol Overdose. Cardiovascular Toxicology 17: 223-225, No. 2, Apr 2017 - USA",
+						"journal-title": "Cardiovascular Toxicology"
+					}
+				],
+				"container-title": [
+					"Reactions Weekly"
+				],
+				"language": "en",
+				"link": [
+					{
+						"URL": "http:\/\/link.springer.com\/content\/pdf\/10.1007\/s40278-017-29839-9.pdf",
+						"content-type": "application\/pdf",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					},
+					{
+						"URL": "http:\/\/link.springer.com\/article\/10.1007\/s40278-017-29839-9\/fulltext.html",
+						"content-type": "text\/html",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					},
+					{
+						"URL": "http:\/\/link.springer.com\/content\/pdf\/10.1007\/s40278-017-29839-9.pdf",
+						"content-type": "application\/pdf",
+						"content-version": "vor",
+						"intended-application": "similarity-checking"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2017,
+							5,
+							12
+						]
+					],
+					"date-time": "2017-05-12T10:25:47Z",
+					"timestamp": 1494584747000
+				},
+				"score": 13.633936,
+				"subtitle": [
+					"Hypotension, bradycardia and two episodes of cardiac arrest following overdose of amlodipine and metoprolol: case report"
+				],
+				"issued": {
+					"date-parts": [
+						[
+							2017,
+							5
+						]
+					]
+				},
+				"references-count": 1,
+				"journal-issue": {
+					"published-print": {
+						"date-parts": [
+							[
+								2017,
+								5
+							]
+						]
+					},
+					"issue": "1"
+				},
+				"alternative-id": [
+					"29839"
+				],
+				"URL": "http:\/\/dx.doi.org\/10.1007\/s40278-017-29839-9",
+				"relation": {
+					"cites": []
+				},
+				"ISSN": [
+					"0114-9954",
+					"1179-2051"
+				],
+				"issn-type": [
+					{
+						"value": "0114-9954",
+						"type": "print"
+					},
+					{
+						"value": "1179-2051",
+						"type": "electronic"
+					}
+				]
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							8,
+							19
+						]
+					],
+					"date-time": "2020-08-19T06:05:32Z",
+					"timestamp": 1597817132133
+				},
+				"reference-count": 14,
+				"publisher": "Wiley",
+				"issue": "1",
+				"license": [
+					{
+						"URL": "http:\/\/doi.wiley.com\/10.1002\/tdm_license_1.1",
+						"start": {
+							"date-parts": [
+								[
+									2018,
+									9,
+									28
+								]
+							],
+							"date-time": "2018-09-28T00:00:00Z",
+							"timestamp": 1538092800000
+						},
+						"delay-in-days": 0,
+						"content-version": "tdm"
+					},
+					{
+						"URL": "http:\/\/onlinelibrary.wiley.com\/termsAndConditions#vor",
+						"start": {
+							"date-parts": [
+								[
+									2018,
+									9,
+									28
+								]
+							],
+							"date-time": "2018-09-28T00:00:00Z",
+							"timestamp": 1538092800000
+						},
+						"delay-in-days": 0,
+						"content-version": "vor"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"short-container-title": [
+					"Clin. Adv. Periodontics"
+				],
+				"published-print": {
+					"date-parts": [
+						[
+							2019,
+							3
+						]
+					]
+				},
+				"DOI": "10.1002\/cap.10044",
+				"type": "journal-article",
+				"created": {
+					"date-parts": [
+						[
+							2018,
+							9,
+							6
+						]
+					],
+					"date-time": "2018-09-06T17:44:55Z",
+					"timestamp": 1536255895000
+				},
+				"page": "24-28",
+				"source": "Crossref",
+				"is-referenced-by-count": 3,
+				"title": [
+					"Metoprolol-Induced Pemphigus-Like Reaction"
+				],
+				"prefix": "10.1002",
+				"volume": "9",
+				"author": [
+					{
+						"given": "Seena",
+						"family": "Patel",
+						"sequence": "first",
+						"affiliation": [
+							{
+								"name": "Advanced Care Center and Special Needs Dentistry; Arizona School of Dentistry & Oral Health; A.T. Still University; Mesa AZ"
+							}
+						]
+					},
+					{
+						"given": "Shanna",
+						"family": "Kim",
+						"sequence": "additional",
+						"affiliation": [
+							{
+								"name": "Private practice; Orlando FL"
+							}
+						]
+					},
+					{
+						"given": "Carl",
+						"family": "Allen",
+						"sequence": "additional",
+						"affiliation": [
+							{
+								"name": "Central Ohio Skin & Cancer, Inc.; Westerville OH"
+							},
+							{
+								"name": "College of Dentistry; The Ohio State University; Columbus OH"
+							}
+						]
+					}
+				],
+				"member": "311",
+				"published-online": {
+					"date-parts": [
+						[
+							2018,
+							9,
+							28
+						]
+					]
+				},
+				"reference": [
+					{
+						"key": "10.1002\/cap.10044-BIB0001|cap10044-cit-0001",
+						"doi-asserted-by": "crossref",
+						"first-page": "132",
+						"DOI": "10.1016\/j.oooo.2015.01.022",
+						"article-title": "World Workshop on Oral Medicine VI: a systematic review of the treatment of mucocutaneous pemphigus vulgaris",
+						"volume": "120",
+						"author": "McMillan",
+						"year": "2015",
+						"journal-title": "Oral Surg Oral Med Oral Pathol Oral Radiol"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0002|cap10044-cit-0002",
+						"doi-asserted-by": "crossref",
+						"first-page": "1138",
+						"DOI": "10.1111\/ijd.12644",
+						"article-title": "Pemphigus vulgaris: a clinical study of 44 cases over a 20-year period",
+						"volume": "54",
+						"author": "Svecova",
+						"year": "2015",
+						"journal-title": "Int J Dermatol"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0003|cap10044-cit-0003",
+						"doi-asserted-by": "crossref",
+						"first-page": "477",
+						"DOI": "10.1016\/j.autrev.2014.01.011",
+						"article-title": "Diagnosis and classification of pemphigus and bullous pemphigoid",
+						"volume": "13",
+						"author": "Kershenovich",
+						"year": "2014",
+						"journal-title": "Autoimmun Rev"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0004|cap10044-cit-0004",
+						"doi-asserted-by": "crossref",
+						"first-page": "498",
+						"DOI": "10.1111\/odi.12639",
+						"article-title": "Oral mucous membrane pemphigoid and pemphigus vulgaris: a retrospective two-center cohort study",
+						"volume": "23",
+						"author": "Sultan",
+						"year": "2017",
+						"journal-title": "Oral Dis"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0005|cap10044-cit-0005",
+						"first-page": "1021",
+						"article-title": "A retrospective study of antihypertensives in pemphigus: a still unchartered odyssey particularly between thiols, amides and phenols",
+						"volume": "11",
+						"author": "Pietkiewicz",
+						"year": "2015",
+						"journal-title": "Arch Med Sci"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0006|cap10044-cit-0006",
+						"first-page": "751",
+						"article-title": "Pemphigus in a patient treated with penicillamine for Wilson's disease (in French)",
+						"volume": "76",
+						"author": "Degos",
+						"year": "1969",
+						"journal-title": "Bull Soc Fr Dermatol Syphiligr"
+					},
+					{
+						"issue": "6234",
+						"key": "10.1002\/cap.10044-BIB0007|cap10044-cit-0007",
+						"doi-asserted-by": "crossref",
+						"first-page": "194",
+						"DOI": "10.1136\/bmj.281.6234.194",
+						"article-title": "Captopril-induced pemphigus",
+						"volume": "281",
+						"author": "Parfrey",
+						"year": "1980",
+						"journal-title": "Br Med J"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0008|cap10044-cit-0008",
+						"author": "Neville",
+						"first-page": "318",
+						"year": "2016",
+						"volume-title": "Oral and Maxillofacial Pathology"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0009|cap10044-cit-0009",
+						"doi-asserted-by": "crossref",
+						"first-page": "694",
+						"DOI": "10.3949\/ccjm.79a.12017",
+						"article-title": "Hypertension in the elderly: some practical considerations",
+						"volume": "79",
+						"author": "Chaudhry",
+						"year": "2012",
+						"journal-title": "Cleve Clin J Med"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0010|cap10044-cit-0010",
+						"first-page": "108",
+						"article-title": "Amoxicillin\/clavulanic acid-induced pemphigus vulgaris: case report",
+						"volume": "20",
+						"author": "Baroni",
+						"year": "2012",
+						"journal-title": "Acta Dermatovenerol Croat"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0011|cap10044-cit-0011",
+						"doi-asserted-by": "crossref",
+						"first-page": "179",
+						"DOI": "10.2310\/7750.2007.00021",
+						"article-title": "An erythrodermic variant of pemphigus foliaceus with puzzling histologic and immunopathologic features",
+						"volume": "11",
+						"author": "Peterson",
+						"year": "2007",
+						"journal-title": "J Cutan Med Surg"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0012|cap10044-cit-0012",
+						"first-page": "746",
+						"article-title": "Bullous pemphigoid following therapy with an oral beta-blocker",
+						"volume": "4",
+						"author": "Perry",
+						"year": "2005",
+						"journal-title": "J Drugs Dermatol"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0013|cap10044-cit-0013",
+						"doi-asserted-by": "crossref",
+						"first-page": "422",
+						"DOI": "10.1016\/S0190-9622(00)90213-5",
+						"article-title": "Patterns of remission in pemphigus vulgaris",
+						"volume": "42",
+						"author": "Herbst",
+						"year": "2000",
+						"journal-title": "J Am Acad Dermatol"
+					},
+					{
+						"key": "10.1002\/cap.10044-BIB0014|cap10044-cit-0014",
+						"doi-asserted-by": "crossref",
+						"first-page": "137",
+						"DOI": "10.2165\/11530050-000000000-00000",
+						"article-title": "Oropharyngeal pemphigus vulgaris and clinical remission: a long-term, longitudinal study",
+						"volume": "11",
+						"author": "Mignogna",
+						"year": "2010",
+						"journal-title": "Am J Clin Dermatol"
+					}
+				],
+				"container-title": [
+					"Clinical Advances in Periodontics"
+				],
+				"language": "en",
+				"link": [
+					{
+						"URL": "https:\/\/api.wiley.com\/onlinelibrary\/tdm\/v1\/articles\/10.1002%2Fcap.10044",
+						"content-type": "application\/pdf",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					},
+					{
+						"URL": "http:\/\/onlinelibrary.wiley.com\/wol1\/doi\/10.1002\/cap.10044\/fullpdf",
+						"content-type": "unspecified",
+						"content-version": "vor",
+						"intended-application": "similarity-checking"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2019,
+							2,
+							27
+						]
+					],
+					"date-time": "2019-02-27T19:28:48Z",
+					"timestamp": 1551295728000
+				},
+				"score": 13.633936,
+				"subtitle": [
+					"Metoprolol-Induced Pemphigus-Like Reaction"
+				],
+				"issued": {
+					"date-parts": [
+						[
+							2018,
+							9,
+							28
+						]
+					]
+				},
+				"references-count": 14,
+				"journal-issue": {
+					"published-print": {
+						"date-parts": [
+							[
+								2019,
+								3
+							]
+						]
+					},
+					"issue": "1"
+				},
+				"URL": "http:\/\/dx.doi.org\/10.1002\/cap.10044",
+				"archive": [
+					"Portico"
+				],
+				"relation": {
+					"cites": []
+				},
+				"ISSN": [
+					"2573-8046"
+				],
+				"issn-type": [
+					{
+						"value": "2573-8046",
+						"type": "print"
+					}
+				]
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							3,
+							28
+						]
+					],
+					"date-time": "2020-03-28T17:43:44Z",
+					"timestamp": 1585417424499
+				},
+				"publisher-location": "Stuttgart",
+				"reference-count": 0,
+				"publisher": "Georg Thieme Verlag",
+				"isbn-type": [
+					{
+						"value": "9783132400870",
+						"type": "print"
+					},
+					{
+						"value": "9783132402447",
+						"type": "electronic"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2016
+						]
+					]
+				},
+				"DOI": "10.1055\/b-0037-142484",
+				"type": "book-chapter",
+				"created": {
+					"date-parts": [
+						[
+							2017,
+							6,
+							7
+						]
+					],
+					"date-time": "2017-06-07T09:53:13Z",
+					"timestamp": 1496829193000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"30 Wirkstoff: Metoprolol"
+				],
+				"prefix": "10.1055",
+				"author": [
+					{
+						"given": "Volker",
+						"family": "Wanka",
+						"sequence": "additional",
+						"affiliation": []
+					},
+					{
+						"given": "Stefan",
+						"family": "Wei\u00df",
+						"sequence": "additional",
+						"affiliation": []
+					}
+				],
+				"member": "194",
+				"container-title": [
+					"Medikamente im Rettungsdienst"
+				],
+				"link": [
+					{
+						"URL": "http:\/\/www.thieme-connect.de\/products\/ebooks\/pdf\/10.1055\/b-0037-142484",
+						"content-type": "unspecified",
+						"content-version": "vor",
+						"intended-application": "similarity-checking"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2017,
+							6,
+							7
+						]
+					],
+					"date-time": "2017-06-07T09:53:21Z",
+					"timestamp": 1496829201000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2016
+						]
+					]
+				},
+				"ISBN": [
+					"9783132400870",
+					"9783132402447"
+				],
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.1055\/b-0037-142484"
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							4,
+							15
+						]
+					],
+					"date-time": "2020-04-15T00:21:41Z",
+					"timestamp": 1586910101153
+				},
+				"publisher-location": "2215 Constitution Avenue, N.W. Washington, DC 20037-2985",
+				"reference-count": 0,
+				"publisher": "The American Pharmacists Association",
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2017,
+							1
+						]
+					]
+				},
+				"DOI": "10.21019\/pfdi.metoprolol",
+				"type": "book-chapter",
+				"created": {
+					"date-parts": [
+						[
+							2019,
+							4,
+							17
+						]
+					],
+					"date-time": "2019-04-17T13:42:57Z",
+					"timestamp": 1555508577000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol succinate"
+				],
+				"prefix": "10.21019",
+				"member": "23",
+				"published-online": {
+					"date-parts": [
+						[
+							2019,
+							4,
+							17
+						]
+					]
+				},
+				"container-title": [
+					"PharmacotherapyFirst Drug Information"
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2019,
+							4,
+							17
+						]
+					],
+					"date-time": "2019-04-17T13:43:06Z",
+					"timestamp": 1555508586000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2017,
+							1
+						]
+					]
+				},
+				"references-count": 0,
+				"alternative-id": [
+					"10.21019\/pfdi.metoprolol",
+					"10.21019\/druginformation"
+				],
+				"URL": "http:\/\/dx.doi.org\/10.21019\/pfdi.metoprolol"
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							3,
+							26
+						]
+					],
+					"date-time": "2020-03-26T14:53:44Z",
+					"timestamp": 1585234424959
+				},
+				"reference-count": 0,
+				"publisher": "Elsevier",
+				"isbn-type": [
+					{
+						"value": "9780323244855",
+						"type": "print"
+					}
+				],
+				"license": [
+					{
+						"URL": "https:\/\/www.elsevier.com\/tdm\/userlicense\/1.0\/",
+						"start": {
+							"date-parts": [
+								[
+									2016,
+									1,
+									1
+								]
+							],
+							"date-time": "2016-01-01T00:00:00Z",
+							"timestamp": 1451606400000
+						},
+						"delay-in-days": 0,
+						"content-version": "tdm"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2016
+						]
+					]
+				},
+				"DOI": "10.1016\/b978-0-323-24485-5.00388-0",
+				"type": "book-chapter",
+				"created": {
+					"date-parts": [
+						[
+							2016,
+							9,
+							4
+						]
+					],
+					"date-time": "2016-09-04T10:15:40Z",
+					"timestamp": 1472984140000
+				},
+				"page": "522-523",
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol Tartrate"
+				],
+				"prefix": "10.1016",
+				"author": [
+					{
+						"given": "Mark G.",
+						"family": "Papich",
+						"sequence": "first",
+						"affiliation": []
+					}
+				],
+				"member": "78",
+				"container-title": [
+					"Saunders Handbook of Veterinary Drugs"
+				],
+				"link": [
+					{
+						"URL": "https:\/\/api.elsevier.com\/content\/article\/PII:B9780323244855003880?httpAccept=text\/xml",
+						"content-type": "text\/xml",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					},
+					{
+						"URL": "https:\/\/api.elsevier.com\/content\/article\/PII:B9780323244855003880?httpAccept=text\/plain",
+						"content-type": "text\/plain",
+						"content-version": "vor",
+						"intended-application": "text-mining"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2018,
+							9,
+							8
+						]
+					],
+					"date-time": "2018-09-08T20:23:44Z",
+					"timestamp": 1536438224000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2016
+						]
+					]
+				},
+				"ISBN": [
+					"9780323244855"
+				],
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.1016\/b978-0-323-24485-5.00388-0"
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							5,
+							21
+						]
+					],
+					"date-time": "2020-05-21T23:41:24Z",
+					"timestamp": 1590104484109
+				},
+				"publisher-location": "Stuttgart",
+				"edition-number": "2",
+				"reference-count": 0,
+				"publisher": "Georg Thieme Verlag",
+				"isbn-type": [
+					{
+						"value": "9783132428249",
+						"type": "print"
+					},
+					{
+						"value": "9783132428270",
+						"type": "electronic"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2019
+						]
+					]
+				},
+				"DOI": "10.1055\/b-0039-167947",
+				"type": "book-chapter",
+				"created": {
+					"date-parts": [
+						[
+							2019,
+							4,
+							12
+						]
+					],
+					"date-time": "2019-04-12T22:44:32Z",
+					"timestamp": 1555109072000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"29 Metoprolol"
+				],
+				"prefix": "10.1055",
+				"author": [
+					{
+						"given": "Volker",
+						"family": "Wanka",
+						"sequence": "additional",
+						"affiliation": []
+					},
+					{
+						"given": "Stefan",
+						"family": "Wei\u00df",
+						"sequence": "additional",
+						"affiliation": []
+					}
+				],
+				"member": "194",
+				"container-title": [
+					"Medikamente im Rettungsdienst"
+				],
+				"link": [
+					{
+						"URL": "http:\/\/www.thieme-connect.de\/products\/ebooks\/pdf\/10.1055\/b-0039-167947.pdf",
+						"content-type": "unspecified",
+						"content-version": "vor",
+						"intended-application": "similarity-checking"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							5,
+							21
+						]
+					],
+					"date-time": "2020-05-21T23:01:46Z",
+					"timestamp": 1590102106000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2019
+						]
+					]
+				},
+				"ISBN": [
+					"9783132428249",
+					"9783132428270"
+				],
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.1055\/b-0039-167947"
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T07:10:19Z",
+					"timestamp": 1594537819122
+				},
+				"reference-count": 0,
+				"publisher": "PeerJ",
+				"content-domain": {
+					"domain": []
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"DOI": "10.7287\/peerj.9306v0.1\/reviews\/2",
+				"type": "peer-review",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:17Z",
+					"timestamp": 1594535417000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Peer Review #2 of \"Metoprolol rescues endothelial progenitor cell dysfunction in diabetes (v0.1)\""
+				],
+				"prefix": "10.7287",
+				"member": "4443",
+				"review": {
+					"revision-round": "2",
+					"stage": "pre-publication"
+				},
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:17Z",
+					"timestamp": 1594535417000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.7287\/peerj.9306v0.1\/reviews\/2",
+				"relation": {
+					"is-review-of": [
+						{
+							"id-type": "doi",
+							"id": "10.7717\/peerj.9306",
+							"asserted-by": "subject"
+						}
+					]
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							6,
+							9
+						]
+					],
+					"date-time": "2020-06-09T15:01:06Z",
+					"timestamp": 1591714866301
+				},
+				"publisher-location": "New York, NY",
+				"edition-number": "18",
+				"reference-count": 0,
+				"publisher": "Springer Publishing Company",
+				"isbn-type": [
+					{
+						"value": "9780826135582",
+						"type": "print"
+					},
+					{
+						"value": "9780826150356",
+						"type": "electronic"
+					}
+				],
+				"content-domain": {
+					"domain": [],
+					"crossmark-restriction": false
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2018,
+							4
+						]
+					]
+				},
+				"DOI": "10.1891\/9780826150356.0675",
+				"type": "book-chapter",
+				"created": {
+					"date-parts": [
+						[
+							2019,
+							12,
+							24
+						]
+					],
+					"date-time": "2019-12-24T04:05:47Z",
+					"timestamp": 1577160347000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Metoprolol"
+				],
+				"prefix": "10.1891",
+				"member": "793",
+				"container-title": [
+					"Hale\u2019s Medications & Mothers\u2019 Milk\u2122 2019"
+				],
+				"link": [
+					{
+						"URL": "https:\/\/syndication.highwire.org\/content\/doi\/10.1891\/9780826150356.0675",
+						"content-type": "unspecified",
+						"content-version": "vor",
+						"intended-application": "similarity-checking"
+					}
+				],
+				"deposited": {
+					"date-parts": [
+						[
+							2019,
+							12,
+							24
+						]
+					],
+					"date-time": "2019-12-24T04:13:02Z",
+					"timestamp": 1577160782000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2018,
+							4
+						]
+					]
+				},
+				"ISBN": [
+					"9780826135582",
+					"9780826150356"
+				],
+				"references-count": 0,
+				"alternative-id": [
+					"10.1891\/9780826150356"
+				],
+				"URL": "http:\/\/dx.doi.org\/10.1891\/9780826150356.0675"
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T07:10:23Z",
+					"timestamp": 1594537823973
+				},
+				"reference-count": 0,
+				"publisher": "PeerJ",
+				"content-domain": {
+					"domain": []
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"DOI": "10.7287\/peerj.9306v0.1\/reviews\/3",
+				"type": "peer-review",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:16Z",
+					"timestamp": 1594535416000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Peer Review #3 of \"Metoprolol rescues endothelial progenitor cell dysfunction in diabetes (v0.1)\""
+				],
+				"prefix": "10.7287",
+				"member": "4443",
+				"review": {
+					"revision-round": "2",
+					"stage": "pre-publication"
+				},
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:17Z",
+					"timestamp": 1594535417000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.7287\/peerj.9306v0.1\/reviews\/3",
+				"relation": {
+					"is-review-of": [
+						{
+							"id-type": "doi",
+							"id": "10.7717\/peerj.9306",
+							"asserted-by": "subject"
+						}
+					]
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T07:10:23Z",
+					"timestamp": 1594537823996
+				},
+				"reference-count": 0,
+				"publisher": "PeerJ",
+				"content-domain": {
+					"domain": []
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"DOI": "10.7287\/peerj.9306v0.2\/reviews\/1",
+				"type": "peer-review",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:25Z",
+					"timestamp": 1594535425000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Peer Review #1 of \"Metoprolol rescues endothelial progenitor cell dysfunction in diabetes (v0.2)\""
+				],
+				"prefix": "10.7287",
+				"member": "4443",
+				"review": {
+					"revision-round": "4",
+					"stage": "pre-publication"
+				},
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:25Z",
+					"timestamp": 1594535425000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.7287\/peerj.9306v0.2\/reviews\/1",
+				"relation": {
+					"is-review-of": [
+						{
+							"id-type": "doi",
+							"id": "10.7717\/peerj.9306",
+							"asserted-by": "subject"
+						}
+					]
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T07:10:24Z",
+					"timestamp": 1594537824662
+				},
+				"reference-count": 0,
+				"publisher": "PeerJ",
+				"content-domain": {
+					"domain": []
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"DOI": "10.7287\/peerj.9306v0.1\/reviews\/1",
+				"type": "peer-review",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:20Z",
+					"timestamp": 1594535420000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Peer Review #1 of \"Metoprolol rescues endothelial progenitor cell dysfunction in diabetes (v0.1)\""
+				],
+				"prefix": "10.7287",
+				"member": "4443",
+				"review": {
+					"revision-round": "2",
+					"stage": "pre-publication"
+				},
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:20Z",
+					"timestamp": 1594535420000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.7287\/peerj.9306v0.1\/reviews\/1",
+				"relation": {
+					"is-review-of": [
+						{
+							"id-type": "doi",
+							"id": "10.7717\/peerj.9306",
+							"asserted-by": "subject"
+						}
+					]
+				}
+			},
+			{
+				"indexed": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T07:10:24Z",
+					"timestamp": 1594537824695
+				},
+				"reference-count": 0,
+				"publisher": "PeerJ",
+				"content-domain": {
+					"domain": []
+				},
+				"published-print": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"DOI": "10.7287\/peerj.9306v0.2\/reviews\/2",
+				"type": "peer-review",
+				"created": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:20Z",
+					"timestamp": 1594535420000
+				},
+				"source": "Crossref",
+				"is-referenced-by-count": 0,
+				"title": [
+					"Peer Review #2 of \"Metoprolol rescues endothelial progenitor cell dysfunction in diabetes (v0.2)\""
+				],
+				"prefix": "10.7287",
+				"member": "4443",
+				"review": {
+					"revision-round": "4",
+					"stage": "pre-publication"
+				},
+				"deposited": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							12
+						]
+					],
+					"date-time": "2020-07-12T06:30:20Z",
+					"timestamp": 1594535420000
+				},
+				"score": 13.358864,
+				"issued": {
+					"date-parts": [
+						[
+							2020,
+							7,
+							7
+						]
+					]
+				},
+				"references-count": 0,
+				"URL": "http:\/\/dx.doi.org\/10.7287\/peerj.9306v0.2\/reviews\/2",
+				"relation": {
+					"is-review-of": [
+						{
+							"id-type": "doi",
+							"id": "10.7717\/peerj.9306",
+							"asserted-by": "subject"
+						}
+					]
+				}
+			}
+		],
+		"items-per-page": 20,
+		"query": {
+			"start-index": 0,
+			"search-terms": "metoprolol"
+		}
+	}
+}

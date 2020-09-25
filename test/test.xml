@@ -1,0 +1,718 @@
+<crossref_result xmlns="http://www.crossref.org/qrschema/3.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+	<query_result>
+		<head>
+			<doi_batch_id>none</doi_batch_id>
+		</head>
+		<body>
+			<query status="resolved">
+				<doi type="journal_article">10.1038/s41598-020-60607-0</doi>
+				<crm-item name="publisher-name" type="string">Springer Science and Business Media LLC</crm-item>
+				<crm-item name="prefix-name" type="string">Springer Science and Business Media LLC</crm-item>
+				<crm-item name="member-id" type="number">297</crm-item>
+				<crm-item name="citation-id" type="number">114200744</crm-item>
+				<crm-item name="journal-id" type="number">134905</crm-item>
+				<crm-item name="deposit-timestamp" type="number">20200227120359735</crm-item>
+				<crm-item name="owner-prefix" type="string">10.1038</crm-item>
+				<crm-item name="last-update" type="date">2020-02-27T06:16:23Z</crm-item>
+				<crm-item name="created" type="date">2020-02-27T06:04:32Z</crm-item>
+				<crm-item name="citedby-count" type="number">0</crm-item>
+				<doi_record>
+					<crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+						<journal>
+							<journal_metadata language="en">
+								<full_title>Scientific Reports</full_title>
+								<abbrev_title>Sci Rep</abbrev_title>
+								<issn media_type="electronic">2045-2322</issn>
+							</journal_metadata>
+							<journal_issue>
+								<publication_date media_type="print">
+									<month>12</month>
+									<year>2020</year>
+								</publication_date>
+								<journal_volume>
+									<volume>10</volume>
+								</journal_volume>
+								<issue>1</issue>
+							</journal_issue>
+							<journal_article publication_type="full_text">
+								<titles>
+									<title>Psychological stress, cognitive decline and the development of dementia in amnestic mild cognitive impairment</title>
+								</titles>
+								<contributors>
+									<person_name contributor_role="author" sequence="first">
+										<given_name>Rebecca</given_name>
+										<surname>Sussams</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Wolff</given_name>
+										<surname>Schlotz</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Zoe</given_name>
+										<surname>Clough</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Jay</given_name>
+										<surname>Amin</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Sharon</given_name>
+										<surname>Simpson</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Amelia</given_name>
+										<surname>Abbott</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Rebecca</given_name>
+										<surname>Beardmore</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Richard</given_name>
+										<surname>Sharples</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Rachel</given_name>
+										<surname>Raybould</surname>
+										<ORCID>http://orcid.org/0000-0003-4673-2381</ORCID>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Keeley</given_name>
+										<surname>Brookes</surname>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Kevin</given_name>
+										<surname>Morgan</surname>
+										<ORCID>http://orcid.org/0000-0002-8217-2396</ORCID>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>David</given_name>
+										<surname>Culliford</surname>
+										<ORCID>http://orcid.org/0000-0003-1663-0253</ORCID>
+									</person_name>
+									<person_name contributor_role="author" sequence="additional">
+										<given_name>Clive</given_name>
+										<surname>Holmes</surname>
+									</person_name>
+								</contributors>
+								<publication_date media_type="online">
+									<month>2</month>
+									<day>27</day>
+									<year>2020</year>
+								</publication_date>
+								<publication_date media_type="print">
+									<month>12</month>
+									<year>2020</year>
+								</publication_date>
+								<publisher_item>
+									<item_number item_number_type="article-number">3618</item_number>
+									<identifier id_type="pii">60607</identifier>
+								</publisher_item>
+								<crossmark>
+									<crossmark_version>1</crossmark_version>
+									<crossmark_policy>10.1007/springer_crossmark_policy</crossmark_policy>
+									<crossmark_domains>
+										<crossmark_domain>
+											<domain>link.springer.com</domain>
+										</crossmark_domain>
+									</crossmark_domains>
+									<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+									<custom_metadata>
+										<assertion group_label="Article History" group_name="ArticleHistory" label="Received" name="received" order="1">19 July 2019</assertion>
+										<assertion group_label="Article History" group_name="ArticleHistory" label="Accepted" name="accepted" order="2">10 February 2020</assertion>
+										<assertion group_label="Article History" group_name="ArticleHistory" label="First Online" name="first_online" order="3">27 February 2020</assertion>
+										<assertion group_label="Competing interests" group_name="EthicsHeading" name="Ethics" order="1">The authors declare no competing interests.</assertion>
+										<fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">
+Alzheimer&apos;s Society
+													<fr:assertion name="funder_identifier">https://doi.org/10.13039/501100000320</fr:assertion>
+												</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+												<fr:assertion name="award_number">PG 143/150</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+											<fr:assertion name="fundgroup">
+												<fr:assertion name="funder_name">Alzheimer&apos;s Society</fr:assertion>
+											</fr:assertion>
+										</fr:program>
+										<ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+											<ai:license_ref applies_to="tdm">https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+										</ai:program>
+									</custom_metadata>
+								</crossmark>
+								<doi_data>
+									<doi>10.1038/s41598-020-60607-0</doi>
+									<timestamp>20200227120359735</timestamp>
+									<resource content_version="vor">http://www.nature.com/articles/s41598-020-60607-0</resource>
+									<collection property="crawler-based">
+										<item crawler="iParadigms">
+											<resource mime_type="application/pdf">http://www.nature.com/articles/s41598-020-60607-0.pdf</resource>
+										</item>
+									</collection>
+									<collection property="text-mining">
+										<item>
+											<resource mime_type="application/pdf">http://www.nature.com/articles/s41598-020-60607-0.pdf</resource>
+										</item>
+										<item>
+											<resource mime_type="text/html">http://www.nature.com/articles/s41598-020-60607-0</resource>
+										</item>
+									</collection>
+								</doi_data>
+								<citation_list>
+									<citation key="60607_CR1">
+										<journal_title>Neurol.</journal_title>
+										<author>RC Petersen</author>
+										<volume>75</volume>
+										<first_page>889</first_page>
+										<cYear>2010</cYear>
+										<doi>10.1212/WNL.0b013e3181f11d85</doi>
+										<unstructured_citation>Petersen, R. C. et al. Prevalence of mild cognitive impairment is higher in men. The Mayo Clinic Study of Aging. Neurol. 75, 889–897 (2010).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR2">
+										<journal_title>Neurol.</journal_title>
+										<author>JT Tschanz</author>
+										<volume>67</volume>
+										<first_page>229</first_page>
+										<cYear>2006</cYear>
+										<doi>10.1212/01.wnl.0000224748.48011.84</doi>
+										<unstructured_citation>Tschanz, J. T. et al. Conversion to dementia from mild cognitive disorder: the Cache County Study. Neurol. 67, 229–234 (2006).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR3">
+										<journal_title>Am. J. Epidemiol.</journal_title>
+										<author>A Karp</author>
+										<volume>159</volume>
+										<first_page>175</first_page>
+										<cYear>2004</cYear>
+										<doi>10.1093/aje/kwh018</doi>
+										<unstructured_citation>Karp, A. et al. Relation of education and occupation-based socioeconomic status to incident Alzheimer’s disease. Am. J. Epidemiol. 159, 175–183 (2004).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR4">
+										<journal_title>Int. J. Geriatr. Psychiatry</journal_title>
+										<author>Y Gao</author>
+										<volume>28</volume>
+										<first_page>441</first_page>
+										<cYear>2013</cYear>
+										<doi>10.1002/gps.3845</doi>
+										<unstructured_citation>Gao, Y. et al. Depression as a risk factor for dementia and mild cognitive impairment: a meta-analysis of longitudinal studies. Int. J. Geriatr. Psychiatry 28, 441–449 (2013).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR5">
+										<journal_title>Alzheimer Dis. Assoc. Disord.</journal_title>
+										<author>MJ Katz</author>
+										<volume>30</volume>
+										<first_page>93</first_page>
+										<cYear>2016</cYear>
+										<doi>10.1097/WAD.0000000000000125</doi>
+										<unstructured_citation>Katz, M. J. et al. Influence of Perceived Stress on Incident Amnestic Mild Cognitive Impairment: Results From the Einstein Aging Study. Alzheimer Dis. Assoc. Disord. 30, 93–98 (2016).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR6">
+										<journal_title>Gerontology</journal_title>
+										<author>A Koyanagi</author>
+										<volume>65</volume>
+										<first_page>155</first_page>
+										<cYear>2019</cYear>
+										<doi>10.1159/000492177</doi>
+										<unstructured_citation>Koyanagi, A. et al. Perceived Stress and Mild Cognitive Impairment among 32,715 Community-Dwelling Older Adults across Six Low- and Middle-Income Countries. Gerontology 65, 155–163 (2019).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR7">
+										<journal_title>Alzheimers Dement.</journal_title>
+										<author>SS Mirza</author>
+										<volume>13</volume>
+										<first_page>130</first_page>
+										<cYear>2017</cYear>
+										<doi>10.1016/j.jalz.2016.06.2361</doi>
+										<unstructured_citation>Mirza, S. S. et al. Mild cognitive impairment and risk of depression and anxiety: A population-based study. Alzheimers Dement. 13, 130–139 (2017).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR8">
+										<journal_title>J. Gerontology, Ser. B: Psychological Sci. Soc. Sci.</journal_title>
+										<author>H Comijs</author>
+										<volume>66</volume>
+										<first_page>111</first_page>
+										<cYear>2011</cYear>
+										<doi>10.1093/geronb/gbr019</doi>
+										<unstructured_citation>Comijs, H., van den Kommer, T., Minnaar, R., Penninx, B. & Deeg, D. Accummulated and Differential Effects of Life Events on Cognitive Decline in Older Persons: Depending on Depression, Baseline Cognition, or APOE e4 status? J. Gerontology, Ser. B: Psychological Sci. Soc. Sci. 66, 111–120 (2011).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR9">
+										<journal_title>Int. J. Geriatr. Psychiatry</journal_title>
+										<author>J Tschanz</author>
+										<volume>28</volume>
+										<first_page>821</first_page>
+										<cYear>2013</cYear>
+										<doi>10.1002/gps.3888</doi>
+										<unstructured_citation>Tschanz, J. et al. Stressful life events and cognitive decline in late life: moderation by education and age. The Cache County Study. Int. J. Geriatr. Psychiatry 28, 821–830 (2013).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR10">
+										<journal_title>J. Gerontol. B Psychol. Sci. Soc. Sci</journal_title>
+										<author>R Andel</author>
+										<volume>66</volume>
+										<first_page>287</first_page>
+										<cYear>2011</cYear>
+										<doi>10.1093/geronb/gbq105</doi>
+										<unstructured_citation>Andel, R., Crowe, M., Kareholt, I., Wastesson, J. & Parker, M. G. Indicators of job strain at midlife and cognitive functioning in advanced old age. J. Gerontol. B Psychol. Sci. Soc. Sci 66, 287–291 (2011).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR11">
+										<journal_title>Psychological Med.</journal_title>
+										<author>Y Leng</author>
+										<volume>43</volume>
+										<first_page>655</first_page>
+										<cYear>2013</cYear>
+										<doi>10.1017/S0033291712001316</doi>
+										<unstructured_citation>Leng, Y. et al. The association between social stress and global cognitive function in a population-based study: the European Prospective Investigation into Cancer (EPIC)-Norfolk study. Psychological Med. 43, 655–666 (2013).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR12">
+										<journal_title>J. Gerontol. B Psychol. Sci. Soc. Sci</journal_title>
+										<author>HC Comijs</author>
+										<volume>66</volume>
+										<issue>Suppl 1</issue>
+										<first_page>i111</first_page>
+										<cYear>2011</cYear>
+										<doi>10.1093/geronb/gbr019</doi>
+										<unstructured_citation>Comijs, H. C., van den Kommer, T. N., Minnaar, R. W., Penninx, B. W. & Deeg, D. J. Accumulated and differential effects of life events on cognitive decline in older persons: depending on depression, baseline cognition, or ApoE epsilon4 status? J. Gerontol. B Psychol. Sci. Soc. Sci 66(Suppl 1), i111–120 (2011).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR13">
+										<journal_title>Int. J. Geriatr. Psychiatry</journal_title>
+										<author>JT Tschanz</author>
+										<volume>28</volume>
+										<first_page>821</first_page>
+										<cYear>2013</cYear>
+										<doi>10.1002/gps.3888</doi>
+										<unstructured_citation>Tschanz, J. T. et al. Stressful life events and cognitive decline in late life: moderation by education and age. The Cache County Study. Int. J. Geriatr. Psychiatry 28, 821–830 (2013).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR14">
+										<journal_title>Brain: A J. Neurol.</journal_title>
+										<author>L Johansson</author>
+										<volume>133</volume>
+										<first_page>2217</first_page>
+										<cYear>2010</cYear>
+										<doi>10.1093/brain/awq116</doi>
+										<unstructured_citation>Johansson, L. et al. Midlife psychological stress and risk of dementia: A 35-year longitudinal population study. Brain: A J. Neurol. 133, 2217–2224 (2010).</unstructured_citation>
+									</citation>
+									<citation key="60607_CR15">
+										<journal_title>Int. J. Geriatric Psychiatry</journal_title>
+										<author>G Persson</author>
+										<volume>11</volume>
+										<first_page>15</first_page>
+										<cYear>1996</cYear>
+										<doi>10.1002/(SICI)1099-1166(199601)11:1<15::AID-GPS262>3.0.CO;2-5</doi>
+											<unstructured_citation>Persson, G. & Skoog, I. A prospective population study of psychosocial risk factors for late onset dementia. Int. J. Geriatric Psychiatry 11, 15–22 (1996).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR16">
+											<journal_title>Neurol.</journal_title>
+											<author>RS Wilson</author>
+											<volume>68</volume>
+											<first_page>2085</first_page>
+											<cYear>2007</cYear>
+											<doi>10.1212/01.wnl.0000264930.97061.82</doi>
+											<unstructured_citation>Wilson, R. S. et al. Chronic distress and incidence of mild cognitive impairment. Neurol. 68, 2085–2092 (2007).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR17">
+											<doi provider="crossref">10.1136/bmjopen-2013-003142</doi>
+											<unstructured_citation>Johansson, L. et al. Common psychosocial stressors in middle-aged women related to longstanding distress and increased risk of Alzheimer’s disease: A 38-year longitudinal population study. BMJ Open 3(2013).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR18">
+											<journal_title>Int. Psychogeriatr.</journal_title>
+											<author>A Sundstrom</author>
+											<volume>26</volume>
+											<first_page>147</first_page>
+											<cYear>2014</cYear>
+											<doi>10.1017/S1041610213001804</doi>
+											<unstructured_citation>Sundstrom, A., Ronnlund, M., Adolfsson, R. & Nilsson, L. G. Stressful life events are not associated with the development of dementia. Int. Psychogeriatr. 26, 147–154 (2014).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR19">
+											<journal_title>Neurobiol. Aging</journal_title>
+											<author>S Ouanes</author>
+											<volume>51</volume>
+											<first_page>1</first_page>
+											<cYear>2017</cYear>
+											<doi>10.1016/j.neurobiolaging.2016.11.014</doi>
+											<unstructured_citation>Ouanes, S. et al. Life events, salivary cortisol, and cognitive performance in nondemented subjects: a population-based study. Neurobiol. Aging 51, 1–8 (2017).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR20">
+											<journal_title>BMJ Open.</journal_title>
+											<author>L Johansson</author>
+											<volume>3</volume>
+											<first_page>e003142</first_page>
+											<cYear>2013</cYear>
+											<doi>10.1136/bmjopen-2013-003142</doi>
+											<unstructured_citation>Johansson, L. et al. Common psychosocial stressors in middle-aged women related to longstanding distress and increased risk of Alzheimer’s disease: a 38-year longitudinal population study. BMJ Open. 3, e003142 (2013).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR21">
+											<journal_title>Am. J. Psychiatry</journal_title>
+											<author>GM Peavy</author>
+											<volume>166</volume>
+											<first_page>1384</first_page>
+											<cYear>2009</cYear>
+											<doi>10.1176/appi.ajp.2009.09040461</doi>
+											<unstructured_citation>Peavy, G. M. et al. Effects of chronic stress on memory decline in cognitively normal and mildly impaired older adults. Am. J. Psychiatry 166, 1384–1391 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR22">
+											<journal_title>Brain</journal_title>
+											<author>L Johansson</author>
+											<volume>133</volume>
+											<first_page>2217</first_page>
+											<cYear>2010</cYear>
+											<doi>10.1093/brain/awq116</doi>
+											<unstructured_citation>Johansson, L. et al. Midlife psychological stress and risk of dementia: a 35-year longitudinal population study. Brain 133, 2217–2224 (2010).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR23">
+											<journal_title>Arch. Neurol.</journal_title>
+											<author>YE Geda</author>
+											<volume>63</volume>
+											<first_page>435</first_page>
+											<cYear>2006</cYear>
+											<doi>10.1001/archneur.63.3.435</doi>
+											<unstructured_citation>Geda, Y. E. et al. Depression, apolipoprotein E genotype, and the incidence of mild cognitive impairment: a prospective cohort study. Arch. Neurol. 63, 435–440 (2006).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR24">
+											<journal_title>Brain Res.</journal_title>
+											<author>RL Huot</author>
+											<volume>950</volume>
+											<first_page>52</first_page>
+											<cYear>2002</cYear>
+											<doi>10.1016/S0006-8993(02)02985-2</doi>
+											<unstructured_citation>Huot, R. L., Plotsky, P. M., Lenox, R. H. & McNamara, R. K. Neonatal maternal separation reduces hippocampal mossy fiber density in adult Long Evans rats. Brain Res. 950, 52–63 (2002).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR25">
+											<journal_title>Neurosci.</journal_title>
+											<author>N Sousa</author>
+											<volume>97</volume>
+											<first_page>253</first_page>
+											<cYear>2000</cYear>
+											<doi>10.1016/S0306-4522(00)00050-6</doi>
+											<unstructured_citation>Sousa, N., Lukoyanov, N. V., Madeira, M. D., Almeida, O. F. & Paula-Barbosa, M. M. Reorganization of the morphology of hippocampal neurites and synapses after stress-induced damage correlates with behavioral improvement. Neurosci. 97, 253–266 (2000).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR26">
+											<journal_title>J. Neurosci.</journal_title>
+											<author>S Lupien</author>
+											<volume>14</volume>
+											<first_page>2893</first_page>
+											<cYear>1994</cYear>
+											<doi>10.1523/JNEUROSCI.14-05-02893.1994</doi>
+											<unstructured_citation>Lupien, S. et al. Basal cortisol levels and cognitive deficits in human aging. J. Neurosci. 14, 2893–2903 (1994).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR27">
+											<journal_title>J. Psychosom. Res.</journal_title>
+											<author>MA Miller</author>
+											<volume>43</volume>
+											<first_page>279</first_page>
+											<cYear>1997</cYear>
+											<doi>10.1016/S0022-3999(97)00118-9</doi>
+											<unstructured_citation>Miller, M. A. & Rahe, R. H. Life changes scaling for the 1990s. J. Psychosom. Res. 43, 279–292 (1997).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR28">
+											<journal_title>J. Health Soc. Behav.</journal_title>
+											<author>S Cohen</author>
+											<volume>24</volume>
+											<first_page>385</first_page>
+											<cYear>1983</cYear>
+											<doi>10.2307/2136404</doi>
+											<unstructured_citation>Cohen, S., Kamarck, T. & Mermelstein, R. A global measure of perceived stress. J. Health Soc. Behav. 24, 385–396 (1983).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR29">
+											<journal_title>Test: Evid. psychometrci adequacy. Psychol. Sci. Q.</journal_title>
+											<author>E Grober</author>
+											<volume>51</volume>
+											<first_page>266</first_page>
+											<cYear>2009</cYear>
+											<unstructured_citation>Grober, E., Ocepek-Welikson & Tersei, J. A. The Free and Cued Selective Reminding. Test: Evid. psychometrci adequacy. Psychol. Sci. Q. 51, 266–282 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR30">
+											<journal_title>J. Am. Geriatr. Soc.</journal_title>
+											<author>ZS Nasreddine</author>
+											<volume>53</volume>
+											<first_page>695</first_page>
+											<cYear>2005</cYear>
+											<doi>10.1111/j.1532-5415.2005.53221.x</doi>
+											<unstructured_citation>Nasreddine, Z. S. et al. The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment. J. Am. Geriatr. Soc. 53, 695–699 (2005).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR31">
+											<journal_title>Acta Psychiatr. Scand.</journal_title>
+											<author>AJ Mitchell</author>
+											<volume>119</volume>
+											<first_page>252</first_page>
+											<cYear>2009</cYear>
+											<doi>10.1111/j.1600-0447.2008.01326.x</doi>
+											<unstructured_citation>Mitchell, A. J. & Shiri-Feshki, M. Rate of progression of mild cognitive impairment to dementia–meta-analysis of 41 robust inception cohort studies. Acta Psychiatr. Scand. 119, 252–265 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR32">
+											<journal_title>Dement. Geriatr. Cogn. Disord.</journal_title>
+											<author>L Rozzini</author>
+											<volume>25</volume>
+											<first_page>32</first_page>
+											<cYear>2008</cYear>
+											<doi>10.1159/000111133</doi>
+											<unstructured_citation>Rozzini, L. et al. Neuropsychiatric symptoms in amnestic and nonamnestic mild cognitive impairment. Dement. Geriatr. Cogn. Disord. 25, 32–36 (2008).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR33">
+											<journal_title>Expert. Rev. Neurother.</journal_title>
+											<author>AP Hermida</author>
+											<volume>12</volume>
+											<first_page>1339</first_page>
+											<cYear>2012</cYear>
+											<doi>10.1586/ern.12.127</doi>
+											<unstructured_citation>Hermida, A. P., McDonald, W. M., Steenland, K. & Levey, A. The association between late-life depression, mild cognitive impairment and dementia: is inflammation the missing link? Expert. Rev. Neurother. 12, 1339–1350 (2012).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR34">
+											<journal_title>Front. Aging Neurosci.</journal_title>
+											<author>S Ouanes</author>
+											<volume>11</volume>
+											<first_page>43</first_page>
+											<cYear>2019</cYear>
+											<doi>10.3389/fnagi.2019.00043</doi>
+											<unstructured_citation>Ouanes, S. & Popp, J. High Cortisol and the Risk of Dementia and Alzheimer’s Disease: A Review of the Literature. Front. Aging Neurosci. 11, 43 (2019).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR35">
+											<journal_title>Neurol.</journal_title>
+											<author>MI Geerlings</author>
+											<volume>85</volume>
+											<first_page>976</first_page>
+											<cYear>2015</cYear>
+											<doi>10.1212/WNL.0000000000001931</doi>
+											<unstructured_citation>Geerlings, M. I. et al. Salivary cortisol, brain volumes, and cognition in community-dwelling elderly without dementia. Neurol. 85, 976–983 (2015).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR36">
+											<journal_title>Psychiatry Res.</journal_title>
+											<author>M Pruessner</author>
+											<volume>155</volume>
+											<first_page>1</first_page>
+											<cYear>2007</cYear>
+											<doi>10.1016/j.pscychresns.2006.12.007</doi>
+											<unstructured_citation>Pruessner, M., Pruessner, J. C., Hellhammer, D. H., Bruce Pike, G. & Lupien, S. J. The associations among hippocampal volume, cortisol reactivity, and memory performance in healthy young men. Psychiatry Res. 155, 1–10 (2007).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR37">
+											<journal_title>Psychoneuroendocrinology</journal_title>
+											<author>H Bruehl</author>
+											<volume>34</volume>
+											<first_page>815</first_page>
+											<cYear>2009</cYear>
+											<doi>10.1016/j.psyneuen.2008.12.010</doi>
+											<unstructured_citation>Bruehl, H., Wolf, O. T. & Convit, A. A blunted cortisol awakening response and hippocampal atrophy in type 2 diabetes mellitus. Psychoneuroendocrinology 34, 815–821 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR38">
+											<journal_title>Biol. Psychiatry</journal_title>
+											<author>TW Buchanan</author>
+											<volume>56</volume>
+											<first_page>651</first_page>
+											<cYear>2004</cYear>
+											<doi>10.1016/j.biopsych.2004.08.014</doi>
+											<unstructured_citation>Buchanan, T. W., Kern, S., Allen, J. S., Tranel, D. & Kirschbaum, C. Circadian regulation of cortisol after hippocampal damage in humans. Biol. Psychiatry 56, 651–656 (2004).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR39">
+											<journal_title>Horm. Behav.</journal_title>
+											<author>TW Buchanan</author>
+											<volume>56</volume>
+											<first_page>44</first_page>
+											<cYear>2009</cYear>
+											<doi>10.1016/j.yhbeh.2009.02.011</doi>
+											<unstructured_citation>Buchanan, T. W., Tranel, D. & Kirschbaum, C. Hippocampal damage abolishes the cortisol response to psychosocial stress in humans. Horm. Behav. 56, 44–50 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR40">
+											<journal_title>Psychoneuroendocrinology</journal_title>
+											<author>OT Wolf</author>
+											<volume>30</volume>
+											<first_page>101</first_page>
+											<cYear>2005</cYear>
+											<doi>10.1016/j.psyneuen.2004.05.001</doi>
+											<unstructured_citation>Wolf, O. T., Fujiwara, E., Luwinski, G., Kirschbaum, C. & Markowitsch, H. J. No morning cortisol response in patients with severe global amnesia. Psychoneuroendocrinology 30, 101–105 (2005).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR41">
+											<journal_title>JAMA Neurol.</journal_title>
+											<author>B Lehallier</author>
+											<volume>73</volume>
+											<first_page>203</first_page>
+											<cYear>2016</cYear>
+											<doi>10.1001/jamaneurol.2015.3135</doi>
+											<unstructured_citation>Lehallier, B. et al. Combined Plasma and Cerebrospinal Fluid Signature for the Prediction of Midterm Progression From Mild Cognitive Impairment to Alzheimer Disease. JAMA Neurol. 73, 203–212 (2016).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR42">
+											<journal_title>Alzheimers Dement.</journal_title>
+											<author>DC Whitehair</author>
+											<volume>6</volume>
+											<first_page>412</first_page>
+											<cYear>2010</cYear>
+											<doi>10.1016/j.jalz.2009.12.003</doi>
+											<unstructured_citation>Whitehair, D. C. et al. Influence of apolipoprotein E varepsilon4 on rates of cognitive and functional decline in mild cognitive impairment. Alzheimers Dement. 6, 412–419 (2010).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR43">
+											<journal_title>J. Alzheimers Dis.</journal_title>
+											<author>WL Xu</author>
+											<volume>33</volume>
+											<first_page>507</first_page>
+											<cYear>2013</cYear>
+											<doi>10.3233/JAD-2012-121369</doi>
+											<unstructured_citation>Xu, W. L. et al. Accelerated progression from mild cognitive impairment to dementia among APOE epsilon4epsilon4 carriers. J. Alzheimers Dis. 33, 507–515 (2013).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR44">
+											<journal_title>CNS Spectr.</journal_title>
+											<author>RC Petersen</author>
+											<volume>13</volume>
+											<first_page>45</first_page>
+											<cYear>2008</cYear>
+											<doi>10.1017/S1092852900016151</doi>
+											<unstructured_citation>Petersen, R. C. & Negash, S. Mild cognitive impairment: an overview. CNS Spectr. 13, 45–53 (2008).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR45">
+											<journal_title>Arch. Neurol.</journal_title>
+											<author>RC Petersen</author>
+											<volume>56</volume>
+											<first_page>303</first_page>
+											<cYear>1999</cYear>
+											<doi>10.1001/archneur.56.3.303</doi>
+											<unstructured_citation>Petersen, R. C. et al. Mild cognitive impairment: clinical characterization and outcome. Arch. Neurol. 56, 303–308 (1999).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR46">
+											<journal_title>Developmental Psychobiology</journal_title>
+											<author>AD Clements</author>
+											<volume>53</volume>
+											<first_page>205</first_page>
+											<cYear>2013</cYear>
+											<doi>10.1002/dev.21025</doi>
+											<unstructured_citation>Clements, A. D. Salivary cortisol measurement in developmental research: where do we go from here? Developmental Psychobiology 53, 205–220 (2013).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR47">
+											<journal_title>Psychoneuroendocrinology</journal_title>
+											<author>DH Hellhammer</author>
+											<volume>34</volume>
+											<first_page>163</first_page>
+											<cYear>2009</cYear>
+											<doi>10.1016/j.psyneuen.2008.10.026</doi>
+											<unstructured_citation>Hellhammer, D. H., Wust, S. & Kudielka, B. M. Salivary cortisol as a biomarker in stress research. Psychoneuroendocrinology 34, 163–171 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR48">
+											<journal_title>Psychoneuroendocrinology</journal_title>
+											<author>BM Kudielka</author>
+											<volume>34</volume>
+											<first_page>2</first_page>
+											<cYear>2009</cYear>
+											<doi>10.1016/j.psyneuen.2008.10.004</doi>
+											<unstructured_citation>Kudielka, B. M., Hellhammer, D. H. & Wust, S. Why do we respond so differently? Reviewing determinants of human salivary cortisol responses to challenge. Psychoneuroendocrinology 34, 2–18 (2009).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR49">
+											<journal_title>J. Clin. Exp. Neuropsychol.</journal_title>
+											<author>N Butters</author>
+											<volume>9</volume>
+											<first_page>479</first_page>
+											<cYear>1987</cYear>
+											<doi>10.1080/01688638708410764</doi>
+											<unstructured_citation>Butters, N., Granholm, E., Salmon, D. P., Grant, I. & Wolfe, J. Episodic and semantic memory: a comparison of amnesic and demented patients. J. Clin. Exp. Neuropsychol. 9, 479–497 (1987).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR50">
+											<unstructured_citation>Wechsler, D.A. Weschsler Adult Intelligence Scale. (The psychological corporation, San Antonio, TX., 1997).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR51">
+											<journal_title>Percept. Mot. Skills.</journal_title>
+											<author>RM Reitan</author>
+											<volume>8</volume>
+											<first_page>271</first_page>
+											<cYear>1958</cYear>
+											<doi>10.2466/pms.1958.8.3.271</doi>
+											<unstructured_citation>Reitan, R. M. Validity of the Trail Making Test as an indicator of organic brain damage. Percept. Mot. Skills. 8, 271–276 (1958).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR52">
+											<journal_title>Soc. Sci. Med.</journal_title>
+											<author>CD Sherbourne</author>
+											<volume>32</volume>
+											<first_page>705</first_page>
+											<cYear>1991</cYear>
+											<doi>10.1016/0277-9536(91)90150-B</doi>
+											<unstructured_citation>Sherbourne, C. D. & Stewart, A. L. The MOS social support survey. Soc. Sci. Med. 32, 705–714 (1991).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR53">
+											<unstructured_citation>WHO. The ICD-10 Classification of Mental and Behavioural Disorders, (World Health Organisation., Geneva, 1992).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR54">
+											<journal_title>J. Steroid Biochem. Mol. Biol.</journal_title>
+											<author>RA Dressendorfer</author>
+											<volume>43</volume>
+											<first_page>683</first_page>
+											<cYear>1992</cYear>
+											<doi>10.1016/0960-0760(92)90294-S</doi>
+											<unstructured_citation>Dressendorfer, R. A., Kirschbaum, C., Rohde, W., Stahl, F. & Strasburger, C. J. Synthesis of a cortisol-biotin conjugate and evaluation as a tracer in an immunoassay for salivary cortisol measurement. J. Steroid Biochem. Mol. Biol. 43, 683–692 (1992).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR55">
+											<journal_title>Psychoneuroendocrinology</journal_title>
+											<author>T Stalder</author>
+											<volume>63</volume>
+											<first_page>414</first_page>
+											<cYear>2016</cYear>
+											<doi>10.1016/j.psyneuen.2015.10.010</doi>
+											<unstructured_citation>Stalder, T. et al. Assessment of the cortisol awakening response: Expert consensus guidelines. Psychoneuroendocrinology 63, 414–432 (2016).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR56">
+											<journal_title>Med. Care</journal_title>
+											<author>GR Norman</author>
+											<volume>41</volume>
+											<first_page>582</first_page>
+											<cYear>2003</cYear>
+											<unstructured_citation>Norman, G. R., Sloan, J. A. & Wyrwich, K. W. Interpretation of changes in health-related quality of life: the remarkable universality of half a standard deviation. Med. Care 41, 582–592 (2003).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR57">
+											<journal_title>Int. J. Geriatr. Psychiatry</journal_title>
+											<author>R Howard</author>
+											<volume>26</volume>
+											<first_page>812</first_page>
+											<cYear>2011</cYear>
+											<doi>10.1002/gps.2607</doi>
+											<unstructured_citation>Howard, R. et al. Determining the minimum clinically important differences for outcomes in the DOMINO trial. Int. J. Geriatr. Psychiatry 26, 812–817 (2011).</unstructured_citation>
+										</citation>
+										<citation key="60607_CR58">
+											<journal_title>Psychol. Rev.</journal_title>
+											<author>GA Miller</author>
+											<volume>63</volume>
+											<first_page>81</first_page>
+											<cYear>1956</cYear>
+											<doi>10.1037/h0043158</doi>
+											<unstructured_citation>Miller, G. A. The magical number seven plus or minus two: some limits on our capacity for processing information. Psychol. Rev. 63, 81–97 (1956).</unstructured_citation>
+										</citation>
+									</citation_list>
+								</journal_article>
+							</journal>
+						</crossref>
+					</doi_record>
+				</query>
+			</body>
+		</query_result>
+	</crossref_result>

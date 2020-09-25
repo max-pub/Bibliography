@@ -1,0 +1,23 @@
+type Bibliography {
+  DOI: ID! @unique
+  shortDOI: ID! @unique
+  title: String!
+  json: String!
+}
+type Author {
+  name: String
+}
+
+type Journal {
+  name: String
+}
+
+type Query {
+  findDOI(DOI: ID): Bibliography
+  findShortDOI(shortDOI: ID): Bibliography
+  findTitle(title: String): [Bibliography]
+}
+
+# type Mutation{
+
+# }
