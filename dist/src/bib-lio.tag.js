@@ -1,46 +1,28 @@
 console.log('bib-lio', import.meta.url);
 const XSLT = new DOMParser().parseFromString(`<?xml version="1.0"?>
 		<xsl:stylesheet version="1.0"  xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
-		<xsl:template match='/*'>
-		<a class='title' href='https://doi.org/{//doi}' target='_blank'>
-			<xsl:value-of select='//journal_article//title' />
+		<xsl:template match='//publication'>
+		<a class='title' href='https://doi.org/{@doi}' target='_blank'>
+			<xsl:value-of select='title' />
 		</a>
 		<div class='journal'>
 			<a class='date'>
 				<span class='year'>
-					<xsl:value-of select='//journal//year' />
+					<xsl:value-of select='@release' />
 				</span>
-				<!-- <span class='month'>
-					<xsl:variable name="month" select="//journal//month" />
-					<xsl:choose>
-						<xsl:when test="$month = 1">JAN</xsl:when>
-						<xsl:when test="$month = 2">Feb</xsl:when>
-						<xsl:when test="$month = 3">Mar</xsl:when>
-						<xsl:when test="$month = 4">Apr</xsl:when>
-						<xsl:when test="$month = 5">May</xsl:when>
-						<xsl:when test="$month = 6">JUN</xsl:when>
-						<xsl:when test="$month = 7">07</xsl:when>
-						<xsl:when test="$month = 8">08</xsl:when>
-						<xsl:when test="$month = 9">09</xsl:when>
-						<xsl:when test="$month = 10">10</xsl:when>
-						<xsl:when test="$month = NOV">11</xsl:when>
-						<xsl:when test="$month = DEC">12</xsl:when>
-						<xsl:otherwise></xsl:otherwise>
-					</xsl:choose>
-				</span> -->
 			</a>
-			<a class='journal' href='https://portal.issn.org/resource/ISSN/{//journal//issn}' target='_blank'>
-				<xsl:value-of select='//journal//full_title' />
+			<a class='journal' href='https://portal.issn.org/resource/ISSN/{journal/@issn}' target='_blank'>
+				<xsl:value-of select='journal/@name' />
 			</a>
 		</div>
 		<div class='authors'>
-			<xsl:for-each select='//contributors/person_name'>
-				<a class='author {@sequence}' href='{ORCID}' target='_blank'>
+			<xsl:for-each select='author'>
+				<a class='author' href='{@orcid}' target='_blank'>
 					<span class='given'>
-						<xsl:value-of select='given_name' />
+						<xsl:value-of select='@given' />
 					</span>
 					<span class='family'>
-						<xsl:value-of select='surname' />
+						<xsl:value-of select='@family' />
 					</span>
 				</a>
 			</xsl:for-each>
@@ -48,7 +30,7 @@ const XSLT = new DOMParser().parseFromString(`<?xml version="1.0"?>
 		<a>
 			<xsl:value-of select='count(//citation)' /> citations
 		</a>
-		<a class='pdf' href='https://www.sci-hub.ren/{//doi}' target='_blank'>pdf</a>
+		<a class='pdf' href='https://www.sci-hub.ren/{@doi}' target='_blank'>pdf</a>
 	</xsl:template>
 		</xsl:stylesheet>
 		`, 'text/xml');
@@ -217,15 +199,12 @@ class bib_lio extends WebTag {
 		async $onFrameChange() {
 			let doi = this.$a.doi
 			this.load(doi)
-			let res = await fetch(`https://www.sci-hub.ren/10.1038/s41598-020-60607-0`).then(x => x.text())
-			console.log(res);
 		}
 		async load(doi) {
-			`https://api.crossref.org/works/${doi}.xml`;
 			console.log('doi', doi);//& format=unixsd
-			let result = await fetch('./test/test2.xml').then(x => x.text()); //return result;
-			console.log('res', result)
-			this.$data = result;
+			let publication = localStorage.getItem(doi);
+			console.log('publication', publication)
+			this.$data = publication;
 		}
 	}
 window.customElements.define('bib-lio', bib_lio)

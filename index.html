@@ -11,10 +11,22 @@
 	}
 </style>
 
-<script src='dist/cross-ref.tag.js' type='module'></script>
-<script src='dist/bib-lio.tag.js' type='module'></script>
+<!-- <script src='dist/src/cross-ref.tag.js' type='module'></script> -->
+<script src='dist/src/bib-lio.tag.js' type='module'></script>
+<script type='module'>
+	// import Data from './data.js';
+	// Data.loadPublication(`10.1038/s41598-020-60607-0`)
+</script>
 
 <!-- <cross-ref search='alzheimer'></cross-ref> -->
 <main>
-	<bib-lio doi='10.1038/s41598-020-60607-0'></bib-lio>
+	<!-- <bib-lio doi='10.1038/s41598-020-60607-0'></bib-lio> -->
 </main>
+
+<script type='module'>
+	import Data from './src/data.js';
+	let main = document.querySelector('main')
+	for(let doi of Object.keys(localStorage))
+	main.insertAdjacentHTML('beforeend',`<bib-lio doi='${doi}'></bib-lio>`)
+		// console.log("DOI",doi)
+</script>

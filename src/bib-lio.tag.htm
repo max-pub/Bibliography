@@ -1,0 +1,159 @@
+<xsl>
+	<xsl:template match='//publication'>
+		<a class='title' href='https://doi.org/{@doi}' target='_blank'>
+			<xsl:value-of select='title' />
+		</a>
+		<div class='journal'>
+			<a class='date'>
+				<span class='year'>
+					<xsl:value-of select='@release' />
+				</span>
+			</a>
+			<a class='journal' href='https://portal.issn.org/resource/ISSN/{journal/@issn}' target='_blank'>
+				<xsl:value-of select='journal/@name' />
+			</a>
+		</div>
+		<div class='authors'>
+			<xsl:for-each select='author'>
+				<a class='author' href='{@orcid}' target='_blank'>
+					<span class='given'>
+						<xsl:value-of select='@given' />
+					</span>
+					<span class='family'>
+						<xsl:value-of select='@family' />
+					</span>
+				</a>
+			</xsl:for-each>
+		</div>
+		<a>
+			<xsl:value-of select='count(//citation)' /> citations
+		</a>
+		<a class='pdf' href='https://www.sci-hub.ren/{@doi}' target='_blank'>pdf</a>
+	</xsl:template>
+</xsl>
+
+<style>
+	@import url('https://max.pub/css/base.css');
+	@import url('https://max.pub/css/publicSans.css');
+
+	:host {
+		display: block;
+		background: #222;
+		padding: 1rem;
+	}
+
+	.title {
+		font-size: 1.5rem;
+		color: var(--text-mark)
+	}
+
+	.publisher {
+		font-size: 1.3rem;
+	}
+
+	div {
+		/* padding: 1rem; */
+
+	}
+
+	.date {
+		font-weight: 400;
+		margin-right: 1rem;
+	}
+
+	.month {
+		color: gray;
+		margin-left: .5rem;
+		text-transform: capitalize;
+	}
+
+	div:nth-child(even) {
+		/* background: #333; */
+	}
+
+	h3 {
+		color: var(--text-back)
+	}
+
+	.author::before {
+		/* content: '• '; */
+	}
+
+	htm>div {
+		margin: .7rem 0;
+	}
+
+	.year {
+		font-weight: normal;
+	}
+
+	.journal {
+		color: #fff
+	}
+
+	.author {
+		/* background: #333; */
+		/* padding: .1rem .1rem; */
+		display: inline-block;
+		margin-right: .9rem;
+		border-radius: 5px;
+	}
+
+	.author .given {
+		color: gray;
+		margin-right: .3rem
+	}
+
+	.author.first * {
+		/* color: lighten(var(--text-mark), 90%); */
+		/* color: var(--text-mark) */
+	}
+
+	.author:not([href='']) {
+		/* color: red; */
+		/* color: var(--text-mark); */
+		/* filter: brightness(70%); */
+		background: #333;
+		padding: 0 .3rem
+	}
+
+	.author:hover * {
+		/* font-weight: bold; */
+		filter: brightness(100%);
+		color: var(--text-mark);
+	}
+
+	.pdf {
+		float: right;
+	}
+</style>
+https://doi.org/10.1038/s41598-020-60607-0
+<script>
+	class {
+		// https://www.resurchify.com/impact-factor-search.php?query=scientific+reports
+		async $onFrameChange() {
+			let doi = this.$a.doi
+			// console.log('frame', doi)
+			this.load(doi)
+			// let res = await fetch(`https://www.sci-hub.ren/10.1038/s41598-020-60607-0`).then(x => x.text())
+			// console.log(res);
+			// if (search) {
+			// 	let result = await this.searchAPI(search)
+			// 	console.log('res', result)
+			// 	this.show(result);
+			// }
+		}
+
+		async load(doi) {
+			// `https://api.crossref.org/works/${doi}.xml`;
+			console.log('doi', doi);//& format=unixsd
+			// let result = await fetch('./test/test2.xml').then(x => x.text()); //return result;
+			let publication = localStorage.getItem(doi);
+			console.log('publication', publication)
+			this.$data = publication;
+			// let result = await fetch('https://api.crossref.org/works?query=' + query).then(x => x.json());
+			// return result.message.items;//.map(this.crossrefConverter);
+		}
+
+	}
+</script>

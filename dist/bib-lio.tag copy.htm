@@ -153,8 +153,8 @@ https://doi.org/10.1038/s41598-020-60607-0
 			let doi = this.$a.doi
 			// console.log('frame', doi)
 			this.load(doi)
-			let res = await fetch(`https://www.sci-hub.ren/10.1038/s41598-020-60607-0`).then(x => x.text())
-			console.log(res);
+			// let res = await fetch(`https://www.sci-hub.ren/10.1038/s41598-020-60607-0`).then(x => x.text())
+			// console.log(res);
 			// if (search) {
 			// 	let result = await this.searchAPI(search)
 			// 	console.log('res', result)
@@ -163,11 +163,12 @@ https://doi.org/10.1038/s41598-020-60607-0
 		}
 
 		async load(doi) {
-			`https://api.crossref.org/works/${doi}.xml`;
+			// `https://api.crossref.org/works/${doi}.xml`;
 			console.log('doi', doi);//& format=unixsd
-			let result = await fetch('./test/test2.xml').then(x => x.text()); //return result;
-			console.log('res', result)
-			this.$data = result;
+			// let result = await fetch('./test/test2.xml').then(x => x.text()); //return result;
+			let publication = localStorage.getItem(doi);
+			console.log('publication', publication)
+			this.$data = publication;
 			// let result = await fetch('https://api.crossref.org/works?query=' + query).then(x => x.json());
 			// return result.message.items;//.map(this.crossrefConverter);
 		}
